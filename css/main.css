@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Page</title>
-</head>
-<body>
-    <p>Hello world</p>
-</body>
-</html>
+body{
+font-size :50px;
+font-variant-position: sub;
+
+}
